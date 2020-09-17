@@ -1,4 +1,7 @@
 # Snake
 This is a snake game Created In Python Using tkinter
 
-Download This As Zip Extract And Run SnakeCode.py
+Go To https://github.com/nithish554/Snake/releases/tag/V1.0
+Click On Source Code (zip) Extract The Downloaded File And Run SnakeCode.py.
+
+Enjoy!
